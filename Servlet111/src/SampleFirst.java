@@ -24,6 +24,7 @@ public class SampleFirst extends HttpServlet {
 		// TODO Auto-generated method stub
 		out = response.getWriter();
 		out.println("Hello world");
+		out.println("Hello Vinoth"); 
 
 	}
 	
