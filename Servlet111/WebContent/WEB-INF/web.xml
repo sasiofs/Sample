@@ -10,6 +10,7 @@
   <servlet-mapping>
   	<servlet-name>SampleFirst</servlet-name>
   	<url-pattern>/SampleFirst</url-pattern>
+  	<url-pattern>/SampleFirst</url-pattern>
   </servlet-mapping>
   
   
